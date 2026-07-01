@@ -5,10 +5,10 @@
 
 ## Projects
 - ⭐ **[Iskola Értékelő](https://iskolaertekelo.hu/): Anonymous and honest platform to share your thoughts and experiences about your school.**
-- 👥 [Cats are Liquid Multiplayer](https://github.com/PatrikSzaboHU/CatsAreLiquid_Multiplayer): A multiplayer mod for the game Cats are Liquid: A Better Place.
-- 🧽 [Sponge Router](https://github.com/PatrikSzaboHU/SpongeRouter): A lightweight client-side page switching system for making Single Page Applications.
-- 📱 [companion2](https://github.com/PatrikSzaboHU/companion2): A mobile/web companion app for Counter-Strike 2 *(work-in-progress)*.
-- 🫥 [PanicButton](https://github.com/PatrikSzaboHU/PanicButton): An app that overlays a website or a fake desktop on your screen with the press of a button.
+- 👥 [Cats are Liquid Multiplayer](https://github.com/cablesalty/CalMP): A multiplayer mod for the game Cats are Liquid: A Better Place.
+- 🧽 [Sponge Router](https://github.com/cablesalty/SpongeRouter): A lightweight client-side page switching system for making Single Page Applications.
+- 📱 [companion2](https://github.com/cablesalty/companion2): A mobile/web companion app for Counter-Strike 2 *(work-in-progress)*.
+- 🫥 [PanicButton](https://github.com/cablesalty/PanicButton): An app that overlays a website or a fake desktop on your screen with the press of a button.
 - (...) and much more!
 
 ## Skills and Experience  
@@ -35,7 +35,7 @@
 
 ## Get in touch
 - Email: [cablesalty@gmail.com](mailto:cablesalty@gmail.com)
-- Twitter: [@cablesalty](https://x.com/cablesalty)
+- Telegram: [@cablesalty](https://t.me/cablesalty)
 
 
 ![achievement](https://user-images.githubusercontent.com/79142358/201485976-659bcdc0-75ed-4609-8dc4-7ca4ffd2ff7a.png)
