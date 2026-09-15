@@ -6,8 +6,7 @@
 ## Projects
 - ⭐ **[Iskola Értékelő](https://iskolaertekelo.hu/): Anonymous and honest platform to share your thoughts and experiences about your school.**
 - 👥 [Cats are Liquid Multiplayer](https://github.com/cablesalty/CalMP): A multiplayer mod for the game Cats are Liquid: A Better Place.
-- 🧽 [Sponge Router](https://github.com/cablesalty/SpongeRouter): A lightweight client-side page switching system for making Single Page Applications.
-- 📱 [companion2](https://github.com/cablesalty/companion2): A mobile/web companion app for Counter-Strike 2 *(work-in-progress)*.
+- 🧽 [reduction.js](https://github.com/cablesalty/reduction): A new version of [Sponge Router](https://github.com/cablesalty/SpongeRouter), Frontend page switching system with configurable page keeping and loading.
 - 🫥 [PanicButton](https://github.com/cablesalty/PanicButton): An app that overlays a website or a fake desktop on your screen with the press of a button.
 - (...) and much more!
 
@@ -34,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,vim" />
 
 ## Get in touch
-- Email: [cablesalty@gmail.com](mailto:cablesalty@gmail.com)
+- Email: [cable@salty.cat](mailto:cable@salty.cat)
 - Telegram: [@cablesalty](https://t.me/cablesalty)
 
 
