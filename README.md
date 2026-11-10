@@ -11,29 +11,29 @@
 - (...) and much more!
 
 ## Skills and Experience  
-- 🔹 **Backend Development:** Node.js (Express, Discord.js), Python (Flask), Java (Spring Boot), PHP  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,python,flask,java,spring,php" />  
+- 🔹 **Backend Development:** Node.js (Express, Discord.js), Java (Spring Boot), PHP  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,java,spring,php" />  
 
-- 🔹 **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, jQuery, React, Svelte  
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,react,svelte" />  
+- 🔹 **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, jQuery, Svelte, Custom solutions  
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,svelte" />  
 
-- 🔹 **Mobile App Development:** PWA, Cordova, React Native, Swift  
-  <img src="https://skillicons.dev/icons?i=html,react,swift" />  
+- 🔹 **Mobile App Development:** Dart, Flutter  
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />  
 
 - 🔹 **Desktop App Development:** Electron, Java (AWT, Swing)  
   <img src="https://skillicons.dev/icons?i=electron,java" />  
 
-- 🔹 **Server & DevOps:** Linux, Bash, Docker, NGINX, MySQL/MariaDB, Git, Postman  
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,mysql,git,postman" />  
+- 🔹 **Server & DevOps:** Linux, Bash, Docker, NGINX, MySQL, Postgres, Git  
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,mysql,postgres,git" />  
 
-- 🔹 **Security & Networking:** Reverse Proxies, Tailscale, Raspberry Pi Homelab  
-  <img src="https://skillicons.dev/icons?i=nginx,raspberrypi" />  
+- 🔹 **Security & Networking:** Reverse Proxies, Tailscale, Pi Homelab  
+  <img src="https://skillicons.dev/icons?i=nginx,raspberrypi" />
 
 - 🔹 **IDEs and Text Editors:** IntelliJ IDEA, Visual Studio Code, Visual Studio, Vim  
   <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,vim" />
 
 ## Get in touch
-- Email: [cable@salty.cat](mailto:cable@salty.cat)
+- Email: [cablesalty@gmail.com](mailto:cablesalty@gmail.com)
 - Telegram: [@cablesalty](https://t.me/cablesalty)
 
 
